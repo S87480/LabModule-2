@@ -12,6 +12,6 @@ public class GradeMessage {
     
     public static void main(String[] args) {
        
-        System.out.println ("Grsde: Excellent");
+        System.out.println ("Grade: Excellent");
     }
 }
